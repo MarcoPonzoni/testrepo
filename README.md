@@ -1,3 +1,3 @@
 # testrepo
 
-##I'm just learning some Data Science stuff.
+I'm just trying to learn some Data Science stuff.
